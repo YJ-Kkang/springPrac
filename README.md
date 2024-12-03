@@ -1,1 +1,2 @@
-# springPrac
+# springPrac: 메모장 프로젝트
+본 프로젝트는 스파르타코딩클럽 기초 Spring 5주차 실습을 하며 만든 것입니다.
